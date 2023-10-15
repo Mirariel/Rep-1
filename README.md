@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **Sana Commerce Software Development Courses `24**
 ![](https://upload.wikimedia.org/wikipedia/commons/0/08/Sana_Commerce_Logo.png)
 ## **Практична робота №1**
@@ -36,3 +37,7 @@
 -картинки
 Документація з використанням Git розміщена за [посиланням](https://docs.google.com/document/d/1agdvcLqd2w2rWS0-fCqwsevO-7QN2xLpZPq7Haylq4U/edit).
 Викона: **Окоча Дмитро**
+=======
+# Rep-1
+Практична 1
+>>>>>>> 98491e648411749de33c4d0c28c51d841dcff706
